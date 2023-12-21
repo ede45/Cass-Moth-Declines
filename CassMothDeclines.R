@@ -9,7 +9,6 @@
 #### Test whether more common or uncommon moth species had larger declines in abundance (abundance class analysis)
 #### Measure changes moth community composition across sample seasons and decades (ordination)
 #### Measure changes in average temperature near Cass
-#### Measure changes in vegetation cover from 1990-2022
 
 ##### Import data #####
 
